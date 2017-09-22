@@ -1,0 +1,8 @@
+C:\temp\programacao\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Application.dll
+C:\temp\programacao\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Application.pdb
+C:\temp\programacao\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Domain.dll
+C:\temp\programacao\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Domain.pdb
+C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csprojResolveAssemblyReference.cache
+C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csproj.CoreCompileInputs.cache
+C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.dll
+C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.pdb

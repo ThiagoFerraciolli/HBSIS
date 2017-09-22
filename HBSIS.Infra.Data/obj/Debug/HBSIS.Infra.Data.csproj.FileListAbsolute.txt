@@ -1,0 +1,13 @@
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.dll.config
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.dll
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.pdb
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.dll
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Domain.dll
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Domain.pdb
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.xml
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csprojResolveAssemblyReference.cache
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csproj.CoreCompileInputs.cache
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.dll
+C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.pdb
