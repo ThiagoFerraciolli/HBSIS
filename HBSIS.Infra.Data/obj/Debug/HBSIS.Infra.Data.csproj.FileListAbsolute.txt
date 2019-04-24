@@ -11,3 +11,16 @@ C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csprojReso
 C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csproj.CoreCompileInputs.cache
 C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.dll
 C:\temp\programacao\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.dll.config
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Infra.Data.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Domain.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\HBSIS.Domain.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.xml
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csprojResolveAssemblyReference.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.csproj.CoreCompileInputs.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Infra.Data\obj\Debug\HBSIS.Infra.Data.pdb

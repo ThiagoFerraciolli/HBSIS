@@ -6,3 +6,11 @@ C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csprojRe
 C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csproj.CoreCompileInputs.cache
 C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.dll
 C:\temp\programacao\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Application.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Application.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Domain.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Application\bin\Debug\HBSIS.Domain.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csprojResolveAssemblyReference.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.csproj.CoreCompileInputs.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Application\obj\Debug\HBSIS.Application.pdb

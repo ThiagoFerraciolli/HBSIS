@@ -4,3 +4,9 @@ C:\temp\programacao\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.csprojResolveAssem
 C:\temp\programacao\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.csproj.CoreCompileInputs.cache
 C:\temp\programacao\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.dll
 C:\temp\programacao\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\bin\Debug\HBSIS.Domain.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\bin\Debug\HBSIS.Domain.pdb
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.csprojResolveAssemblyReference.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.csproj.CoreCompileInputs.cache
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.dll
+C:\programacao\GitHub\HBSIS\HBSIS.Domain\obj\Debug\HBSIS.Domain.pdb
